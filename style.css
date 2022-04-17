@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  background-color: #45ffa5e7;
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  top: 25vh;
+  left: 40vw;
+  width: 20vw;
+  height: 50vh;
+  padding: 65px;
+  border-radius: 25px;
+}
+.container h1 {
+  text-align: center;
+  color: #020202a1;
+}
+.container p {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
